@@ -1,0 +1,2 @@
+autocode,48bd835e4eef2631c66a840904a5cc114ca2403f2aa63b3d00aa789f6f1f2632/george_orwell.pdf,pdf,800,500
+
